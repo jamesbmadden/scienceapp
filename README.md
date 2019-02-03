@@ -1,5 +1,5 @@
 # Scienceapp
-## Android App Written in Flutter for Reading Sound Level from Microphone
+### Android App Written in Flutter for Reading Sound Level from Microphone
 
 ## Install
 Install the flutter command line tool, then run
